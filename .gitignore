@@ -1,3 +1,6 @@
+#Assets folder containing too big files
+assets
+
 # generic files to ignore
 .*
 
