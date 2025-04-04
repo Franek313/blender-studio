@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "blender_studio"
+version = "1.0.0"
+name = "Blender Studio"
+tagline = "This is a tool pack for audio, video, images and more"
+maintainer = "Holy Arts <[holyartsgames@gmail.com]>"
+type = "add-on"
+blender_version_min = "4.4.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[add_ons.BlenderStudio_VideoEditor]
+name = "BlenderStudio VideoEditor"
