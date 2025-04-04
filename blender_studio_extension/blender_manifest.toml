@@ -12,4 +12,4 @@ license = [
 ]
 
 [add_ons.BlenderStudio_VideoEditor]
-name = "BlenderStudio VideoEditor"
+name = "BlenderStudio_VideoEditor"
